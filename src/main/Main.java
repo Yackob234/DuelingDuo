@@ -111,7 +111,8 @@ public class Main {
 		boolean start;
 		//start 80,740
 		//duel 80,930
-
+		
+		//trying to fix a bad choice
 		int heightOfText = c.getHeight() - 40;
     	while (true) {
 				synchronized(c){
